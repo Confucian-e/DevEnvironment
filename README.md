@@ -73,6 +73,14 @@ yarn add typescript --dev
 npm install typescript --save-dev
 ```
 
+[oh-my-zsh](https://ohmyz.sh/)
+
+> Need install zsh before, if not, use `brew install zsh`
+
+```shell
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 
 
 ## Blockchain
